@@ -4,7 +4,7 @@ Random number generator program to aid in the proposed [Multifind](https://githu
 ## Objective:
 The objective of this project is to facilitate the generation of the [Multifind](https://github.com/mateuspim/TRABSO) project input files for the Operating Systems discipline taught at [Unicamp's Faculty of Technology](https://www.ft.unicamp.br/).
 
-Contributors (sorted alphabetically):
+## Contributors (sorted alphabetically):
 * [Gustavo Polli](https://github.com/gapolli)
 
 ## Compilation:
