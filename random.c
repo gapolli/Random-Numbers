@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NLINES 100
+#define NLINES 100000
 #define NMAX 1000
 
 char fname[10][8] = {"arq1.in", "arq2.in", "arq3.in", "arq4.in", "arq5.in", "arq6.in", "arq7.in", "arq8.in", "arq9.in", "arq10.in"};
